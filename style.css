@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin: auto;
+    font-size: 4em;
+}
+form{
+    font-size: 2em;
+    text-align: center;
+}
+body{
+    display: table;
+    width: 100%;
+}
+input{
+     background-color: rgb(117, 181, 233);
+     text-align: end;
+     font-size: 1.2em;
+}
+.submitbut{
+    border: 2px black solid;
+    border-radius: 20%;    
+    margin-left: 400px;
+    padding: 1em;
+}
+.prix{
+    margin-left: 16px;
+}
+.nomP{
+    margin-left: 8px;
+}
+p{
+    font-weight: 700;
+}
+table{
+    margin: auto;
+    font-size: 2em;
+}
+thead{
+    
+    border-top: 2px black solid;
+    border-bottom: 2px black solid;
+    padding: 1em;
+    margin: auto;
+    background-color: rgb(117, 181, 233);
+}
+th,td{
+    background-color: rgb(224, 224, 224);
+    padding: 1em;
+}
+
+header{
+    background-color: black;
+    width: 100%;
+
+    color: white;
+    
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+#nav a{
+    color: white;
+    font-size: 3em;
+    justify-content: center;
+    padding: 0.7em;
+
+}
+
